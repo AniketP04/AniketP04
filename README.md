@@ -6,7 +6,7 @@ Deep Learning Enthusiast
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [aniketkolte0406@gmail.com](mailto:aniketkolte0406@gmail.com)
-* 🤝  I'm open to collaborating on any full stack deep learning projects
+* 🤝  I'm open to collaborating on research projects and deep learning projects
 * ⚡  Googling is my thing ;)
 
 
