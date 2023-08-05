@@ -30,6 +30,8 @@ Deep Learning Enthusiast
 	<a href="https://www.kaggle.com/aniketkolte04"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 </p>
 
+
+
 ## 📊 GitHub Stats:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AniketP04&theme=graywhite)
@@ -37,6 +39,47 @@ Deep Learning Enthusiast
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AniketP04&theme=graywhite)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AniketP04&theme=graywhite)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AniketP04&theme=graywhite&utcOffset=8)
+
+### 👨‍💻 Programming Languages
+
+<p>
+    <a href="https://github.com/AniketP04"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"></a>
+    <a href="https://github.com/AniketP04"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"></a>
+    <a href="https://github.com/AniketP04"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"></a>
+    <a href="https://github.com/AniketP04"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"></a>
+    <a href="https://github.com/AniketP04"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"></a>
+    <a href="https://github.com/AniketP04"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=LaTeX&logoColor=white"></a>
+    
+
+### 🧰 Frameworks and Libraries
+
+<p>
+    	<a href="https://github.com/AniketP04"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
+    	<a href="https://github.com/AniketP04"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
+    	<a href="https://github.com/AniketP04"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+    	<a href="https://github.com/AniketP04"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+	<a href="https://github.com/AniketP04"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
+ 	<a href="https://github.com/AniketP04"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white"></a>
+	<a href="https://github.com/AniketP04"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white"></a>
+</p>
+
+### 💻 Software and Tools
+
+<p>
+	<a href="https://github.com/AniketP04"><img alt="Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white"></a>
+ 	<a href="https://github.com/AniketP04"><img alt="Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white"></a>
+  	<a href="https://github.com/AniketP04"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"></a>
+   	<a href="https://github.com/AniketP04"><img alt="StackOverflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white"></a>
+    	<a href="https://github.com/AniketP04"><img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"></a>
+     	<a href="https://github.com/AniketP04"><img alt="Git LFS" src="https://img.shields.io/badge/Git%20LFS-F64935.svg?style=for-the-badge&logo=Git-LFS&logoColor=white"></a>
+      	<a href="https://github.com/AniketP04"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"></a>
+       	<a href="https://github.com/AniketP04"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black"></a>
+	<a href="https://github.com/AniketP04"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white"></a>
+ 	<a href="https://github.com/AniketP04"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white"></a>
+ 
+    
+</p>
+
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
