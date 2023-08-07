@@ -13,6 +13,10 @@ Hi, I'm Aniket Patil!
 
 <hr>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="650"/>
+</div>
+
 Deep Learning Enthusiast
 ------------------------
 
@@ -22,10 +26,6 @@ Deep Learning Enthusiast
 * 🤝  I'm open to collaborating on research projects and deep learning projects
 * ⚡  Googling is my thing ;)
 * 🌟 Main languages: Python
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="650"/>
-</div>
 
 <hr>
 
