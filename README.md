@@ -11,14 +11,16 @@ Hi, I'm Aniket Patil!
 
 ![Visitor Count](https://profile-counter.glitch.me/{AniketP04}/count.svg)
 
-<hr>
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="650"/>
 </div>
 
+<hr>
+
 Deep Learning Enthusiast
 ------------------------
+
+
 
 * 🌍  I'm based in India
 * 📝 I have a strong interest in Data Science and Artificial Intelligence
