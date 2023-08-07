@@ -8,6 +8,9 @@ Hi, I'm Aniket Patil!
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Always+Learning+New+Things;AI%2C+DS%2C+ML%2FDL+Enthusiast" alt="Typing SVG" /></a>
 </p>
+
+![Visitor Count](https://profile-counter.glitch.me/{AniketP04}/count.svg)
+
 <hr>
 
 Deep Learning Enthusiast
