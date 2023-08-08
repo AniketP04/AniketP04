@@ -24,7 +24,7 @@ Deep Learning Enthusiast
 
 * 🌍  I'm based in India
 * 📝 I have a strong interest in Data Science and Artificial Intelligence
-* 🔭 Working on Deep Learning and Machine Learning and Quantum Cryptography
+* 🔭 Working on **Deep Learning** and **Machine Learning** and **Quantum Cryptography**
 * 🤝  I'm open to collaborating on research projects and deep learning projects
 * ⚡  Googling is my thing ;)
 * 🌟 Main languages: Python
