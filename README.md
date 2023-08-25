@@ -23,7 +23,7 @@ Deep Learning Enthusiast
 
 
 * 🌍  I'm based in **India**.
-* 📝 I have a strong interest in **Data Science** and **Artificial Intelligence**
+* 📝 I have a strong interest in **Data Science** and **Artificial Intelligence**.
 * 🔭 Working on ***Deep Learning*** and ***Quantum Cryptography***.
 * 🤝  I'm open to collaborating on **research projects**.
 * ⚡  Googling is my thing ;)
