@@ -55,6 +55,7 @@ Deep Learning Enthusiast
     <a href="https://github.com/AniketP04"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"></a>
     <a href="https://github.com/AniketP04"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"></a>
     <a href="https://github.com/AniketP04"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"></a>
+    <a href="https://github.com/AniketP04"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"></a>
     <a href="https://github.com/AniketP04"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"></a>
 	<a href="https://github.com/AniketP04"><img alt="PySpark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white"></a>
     <a href="https://github.com/AniketP04"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"></a>
@@ -81,7 +82,7 @@ Deep Learning Enthusiast
   	<a href="https://github.com/AniketP04"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"></a>
    	<a href="https://github.com/AniketP04"><img alt="StackOverflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white"></a>
     	<a href="https://github.com/AniketP04"><img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"></a>
-     	<a href="https://github.com/AniketP04"><img alt="Git LFS" src="https://img.shields.io/badge/Git%20LFS-F64935.svg?style=for-the-badge&logo=Git-LFS&logoColor=white"></a>
+<!--      	<a href="https://github.com/AniketP04"><img alt="Git LFS" src="https://img.shields.io/badge/Git%20LFS-F64935.svg?style=for-the-badge&logo=Git-LFS&logoColor=white"></a> -->
       	<a href="https://github.com/AniketP04"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"></a>
        	<a href="https://github.com/AniketP04"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black"></a>
 	<a href="https://github.com/AniketP04"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white"></a>
