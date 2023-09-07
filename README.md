@@ -56,6 +56,7 @@ Deep Learning Enthusiast
     <a href="https://github.com/AniketP04"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"></a>
     <a href="https://github.com/AniketP04"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"></a>
     <a href="https://github.com/AniketP04"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"></a>
+    <a href="https://github.com/AniketP04"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=R&logoColor=white"></a>
     <a href="https://github.com/AniketP04"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"></a>
 	<a href="https://github.com/AniketP04"><img alt="PySpark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white"></a>
     <a href="https://github.com/AniketP04"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"></a>
