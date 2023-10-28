@@ -29,6 +29,8 @@ Deep Learning Enthusiast
 * ⚡  Googling is my thing ;)
 * 🌟 Main languages: **Python**
 
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <hr>
 
 ## 🤝 Connect with me
@@ -39,7 +41,7 @@ Deep Learning Enthusiast
 	<a href="https://www.kaggle.com/aniketkolte04"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 </p>
 
-
+<hr>
 
 ## 📊 GitHub Stats:
 
@@ -48,6 +50,8 @@ Deep Learning Enthusiast
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AniketP04&theme=graywhite)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AniketP04&theme=graywhite)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AniketP04&theme=graywhite&utcOffset=8)
+
+<hr>
 
 ### 👨‍💻 Programming Languages
 
@@ -92,7 +96,6 @@ Deep Learning Enthusiast
     
 </p>
 
+<hr>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
+[![An image of @aniketp04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aniketp04)](https://holopin.io/@aniketp04)
