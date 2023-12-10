@@ -38,8 +38,21 @@ Deep Learning Enthusiast
 	<a href="mailto:aniketkolte0406@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/aniket-patil-408ba5224/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/AniketP04"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.kaggle.com/aniketkolte04"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+<!-- 	<a href="https://www.kaggle.com/aniketkolte04"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a> -->
 </p>
+
+<hr>
+
+### Check out my <a href="https://www.kaggle.com/aniketkolte04">Kaggle Profile</a> 
+
+
+![aniketkolte04](https://road-to-kaggle-grandmaster.vercel.app/api/simple/aniketkolte04)
+
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/aniketkolte04/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/aniketkolte04/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/aniketkolte04/discussion/light)
+
+<be>
 
 <hr>
 
