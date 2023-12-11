@@ -42,10 +42,6 @@ Deep Learning Enthusiast
 </p>
 
 <hr>
-
-### Check out my <a href="https://www.kaggle.com/aniketkolte04">Kaggle Profile</a> 
-
-
 ![aniketkolte04](https://road-to-kaggle-grandmaster.vercel.app/api/simple/aniketkolte04)
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/aniketkolte04/competition/light)
