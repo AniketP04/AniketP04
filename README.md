@@ -44,7 +44,6 @@ Deep Learning Enthusiast
 
 ![aniketkolte04](https://road-to-kaggle-grandmaster.vercel.app/api/simple/aniketkolte04)
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/aniketkolte04/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/aniketkolte04/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/aniketkolte04/notebook/light)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/aniketkolte04/discussion/light)
