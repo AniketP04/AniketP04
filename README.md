@@ -42,17 +42,6 @@ Deep Learning Enthusiast
 
 <hr>
 
-![aniketkolte04](https://road-to-kaggle-grandmaster.vercel.app/api/simple/aniketkolte04)
-
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/aniketkolte04/competition/light)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/aniketkolte04/dataset/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/aniketkolte04/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/aniketkolte04/discussion/light)
-
-<be>
-
-<hr>
-
 ## 📊 GitHub Stats:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AniketP04&theme=graywhite)
