@@ -17,13 +17,11 @@ Hi, I'm Aniket Patil!!
 
 <hr>
 
-Deep Learning Enthusiast
+
 ------------------------
 
 ```
 🌍 I'm based in India.
-📝 I have a strong interest in Data Science and Artificial Intelligence.
-🔭 Working on Deep Learning.
 🤝 I'm open to collaborating on research projects.
 ```
   ![Jokes Card](https://readme-jokes.vercel.app/api)
