@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Aniket Patil!!
+Hi, I'm Aniket!!
 	<a href="https://github.com/AniketP04" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
@@ -9,13 +9,9 @@ Hi, I'm Aniket Patil!!
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Always+Learning+New+Things;AI%2C+DS%2C+ML%2FDL+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
-![Visitor Count](https://profile-counter.glitch.me/{AniketP04}/count.svg)
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="650"/>
 </div>
-
-<hr>
 
 
 ------------------------
@@ -35,16 +31,6 @@ Hi, I'm Aniket Patil!!
 	<a href="https://github.com/AniketP04"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
  	<a href="https://www.kaggle.com/aniketkolte04"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 </p>
-
-<hr>
-
-## 📊 GitHub Stats:
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AniketP04&theme=graywhite)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AniketP04&theme=graywhite)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AniketP04&theme=graywhite)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AniketP04&theme=graywhite)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AniketP04&theme=graywhite&utcOffset=8)
 
 <hr>
 
