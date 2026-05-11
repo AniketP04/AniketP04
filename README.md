@@ -35,9 +35,7 @@
 
 ## 🛠️ Interests & Focus Areas
 
-| 👁️ Computer Vision | 🧊 3D Vision | 🏥 Medical Imaging |
-|---|---|---|
-| ⚡ Efficient Deep Learning | 🔬 Semi-Supervised Learning | 📊 Data Science |
+**|** 👁️ Computer Vision **|** 🧊 3D Vision **|** 🏥 Medical Imaging **|** ⚡ Efficient Deep Learning **|** 📊 Data Science
 
 ---
 
