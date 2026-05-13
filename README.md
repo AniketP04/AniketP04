@@ -21,7 +21,7 @@
 - Semi-supervised learning for **biomedical image segmentation**
 - Tackled the annotation bottleneck in clinical AI using uncertainty estimation on **cardiac MRI**
 
-**🧪 Research Intern — VIIT Research Lab** *(May 2023 – Aug 2023)*
+**🔬 Research Intern — VIIT, Pune** *(May 2023 – Aug 2023)*
 - Worked under [Dr. Yashwant Ingle](https://www.yashwantingle.com/)
 - Designed **lightweight deep learning architectures** for skin lesion segmentation on dermoscopic images
 
