@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-- 🔭 Deeply focused on **Computer Vision** — currently venturing into **3D Computer Vision** 🧊
+- 🔭 Deeply focused on **Computer Vision** — currently venturing into **3D Vision** 🧊
 - 🤖 Fascinated by how spatial understanding unlocks new dimensions of perception for AI
 - 📬 Reach me at **aniketkolte0406@gmail.com**
 
