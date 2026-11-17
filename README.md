@@ -1,4 +1,4 @@
-# Hey there! I'm Aniket Patil 👋
+# Hey there! I'm Aniket Kolte 👋
 
 🎓 **B.Tech in AI & Data Science** @ VIIT, Pune &nbsp;|&nbsp; 🏅 **Kaggle Master**
 
